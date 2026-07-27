@@ -1,0 +1,1 @@
+"""AI asistan modülü."""
